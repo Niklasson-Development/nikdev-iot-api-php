@@ -6,9 +6,9 @@
  * Time: 23:56
  */
 
-namespace NikDev\IoT\API\Traits;
+namespace NikDev\IoT\API\Parts;
 
 
-class Storage extends Downstream {
+class Base {
 
 }

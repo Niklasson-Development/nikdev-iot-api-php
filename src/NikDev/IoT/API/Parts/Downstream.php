@@ -6,7 +6,7 @@
  * Time: 23:50
  */
 
-namespace NikDev\IoT\API\Traits;
+namespace NikDev\IoT\API\Parts;
 
 
 class Downstream extends Upstream {

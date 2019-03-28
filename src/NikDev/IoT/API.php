@@ -8,7 +8,7 @@
 
 namespace NikDev\IoT;
 
-use NikDev\IoT\API\Traits\Storage;
+use NikDev\IoT\API\Parts\Storage;
 
 class API extends Storage {
 
