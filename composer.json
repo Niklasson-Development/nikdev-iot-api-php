@@ -1,0 +1,22 @@
+{
+  "name": "nikdev/iot",
+  "description": "PHP API for NikDev IoT server.",
+  "keywords": ["iot", "api", "nikdev"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johan Niklasson",
+      "email": "johan@nik-dev.se"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-0" : {
+      "NikDev\\IoT" : "src"
+    }
+  }
+}
